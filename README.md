@@ -1,4 +1,4 @@
-# ⚛️ React Course — Maximilian Schwarzmüller (Udemy)
+# ⚛️ React Course — Maximilian Schwarzmüller (Udemy Courses)
 
 <div align="center">
 
