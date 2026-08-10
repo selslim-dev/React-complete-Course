@@ -106,7 +106,7 @@ Hands-on project applying everything from Sections 3 & 4.
 </details>
 
 <details>
-<summary><b>✅ Section 6 — Styling React Components</b> — 0/23 lectures · 1h 55min · <code>04-styling</code></summary>
+<summary><b>✅ Section 6 — Styling React Components</b> — 23/23 lectures · 1h 55min · <code>04-styling</code></summary>
 
 - [x] Vanilla CSS vs. CSS Modules
 - [x] Styled Components
@@ -116,7 +116,7 @@ Hands-on project applying everything from Sections 3 & 4.
 </details>
 
 <details>
-<summary><b>✅ Section 7 — Debugging React Apps</b> — 0/7 lectures · 29min · <code>05-debugging</code></summary>
+<summary><b>✅ Section 7 — Debugging React Apps</b> — 7/7 lectures · 29min · <code>05-debugging</code></summary>
 
 - [x] Reading error messages & stack traces
 - [x] React DevTools
@@ -126,7 +126,7 @@ Hands-on project applying everything from Sections 3 & 4.
 </details>
 
 <details>
-<summary><b>✅ Section 8 — Working with Refs & Portals</b> — 0/22 lectures · 1h 26min · <code>06-refs-portals</code></summary>
+<summary><b>✅ Section 8 — Working with Refs & Portals</b> — 22/22 lectures · 1h 26min · <code>06-refs-portals</code></summary>
 
 - [x] `useRef` for DOM access & values
 - [x] Forwarding refs
@@ -135,13 +135,13 @@ Hands-on project applying everything from Sections 3 & 4.
 </details>
 
 <details>
-<summary><b>✅ Section 9 — Practice Project: Project Management App</b> — 0/16 lectures · 2h 4min · <code>07-project-management-app</code></summary>
+<summary><b>✅ Section 9 — Practice Project: Project Management App</b> — 16/16 lectures · 2h 4min · <code>07-project-management-app</code></summary>
 
 Components, state, refs & more combined into a full mini-app.
 </details>
 
 <details>
-<summary><b>✅ Section 10 — React's Context API & useReducer</b> — 0/15 lectures · 1h 19min · <code>08-context-usereducer</code></summary>
+<summary><b>✅ Section 10 — React's Context API & useReducer</b> — 15/15 lectures · 1h 19min · <code>08-context-usereducer</code></summary>
 
 - [x] Prop drilling problem
 - [x] `createContext` / `useContext`
@@ -150,7 +150,7 @@ Components, state, refs & more combined into a full mini-app.
 </details>
 
 <details>
-<summary><b>✅ Section 11 — Handling Side Effects & useEffect()</b> — 0/16 lectures · 1h 21min · <code>09-side-effects-useeffect</code></summary>
+<summary><b>✅ Section 11 — Handling Side Effects & useEffect()</b> — 16/16 lectures · 1h 21min · <code>09-side-effects-useeffect</code></summary>
 
 - [x] What are side effects
 - [x] `useEffect` dependencies
@@ -159,13 +159,13 @@ Components, state, refs & more combined into a full mini-app.
 </details>
 
 <details>
-<summary><b>✅ Section 12 — Practice Project: Quiz App</b> — 0/12 lectures · 2h 1min · <code>10-quiz-app</code></summary>
+<summary><b>✅ Section 12 — Practice Project: Quiz App</b> — 12/12 lectures · 2h 1min · <code>10-quiz-app</code></summary>
 
 Full app built around effects, timers, and state.
 </details>
 
 <details>
-<summary><b>✅ Section 13 — Behind the Scenes of React & Optimization</b> — 0/13 lectures · 1h 21min · <code>11-optimization</code></summary>
+<summary><b>✅ Section 13 — Behind the Scenes of React & Optimization</b> — 13/13 lectures · 1h 21min · <code>11-optimization</code></summary>
 
 - [x] Virtual DOM & reconciliation
 - [x] `memo`, `useMemo`, `useCallback`
@@ -173,7 +173,7 @@ Full app built around effects, timers, and state.
 </details>
 
 <details>
-<summary><b>✅ Section 14 — Class-based Components</b> — 0/10 lectures · 1h · <code>12-class-components</code></summary>
+<summary><b>✅ Section 14 — Class-based Components</b> — 10/10 lectures · 1h · <code>12-class-components</code></summary>
 
 - [x] Class component syntax
 - [x] Error boundaries (class-only feature)
@@ -181,7 +181,7 @@ Full app built around effects, timers, and state.
 </details>
 
 <details>
-<summary><b>✅ Section 15 — Sending HTTP Requests</b> — 0/16 lectures · 1h 25min · <code>13-http-requests</code></summary>
+<summary><b>✅ Section 15 — Sending HTTP Requests</b> — 16/16 lectures · 1h 25min · <code>13-http-requests</code></summary>
 
 - [x] `fetch` in `useEffect`
 - [x] Loading & error states
@@ -189,7 +189,7 @@ Full app built around effects, timers, and state.
 </details>
 
 <details>
-<summary><b>✅ Section 16 — Building Custom React Hooks</b> — 0/7 lectures · 40min · <code>14-custom-hooks</code></summary>
+<summary><b>✅ Section 16 — Building Custom React Hooks</b> — 7/7 lectures · 40min · <code>14-custom-hooks</code></summary>
 
 - [x] Rules of hooks
 - [x] Extracting reusable logic
