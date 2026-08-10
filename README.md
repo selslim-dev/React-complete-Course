@@ -126,73 +126,73 @@ Hands-on project applying everything from Sections 3 & 4.
 </details>
 
 <details>
-<summary><b>⬜ Section 8 — Working with Refs & Portals</b> — 0/22 lectures · 1h 26min · <code>06-refs-portals</code></summary>
+<summary><b>✅ Section 8 — Working with Refs & Portals</b> — 0/22 lectures · 1h 26min · <code>06-refs-portals</code></summary>
 
-- [ ] `useRef` for DOM access & values
-- [ ] Forwarding refs
-- [ ] `useImperativeHandle`
-- [ ] React Portals
+- [x] `useRef` for DOM access & values
+- [x] Forwarding refs
+- [x] `useImperativeHandle`
+- [x] React Portals
 </details>
 
 <details>
-<summary><b>⬜ Section 9 — Practice Project: Project Management App</b> — 0/16 lectures · 2h 4min · <code>07-project-management-app</code></summary>
+<summary><b>✅ Section 9 — Practice Project: Project Management App</b> — 0/16 lectures · 2h 4min · <code>07-project-management-app</code></summary>
 
 Components, state, refs & more combined into a full mini-app.
 </details>
 
 <details>
-<summary><b>⬜ Section 10 — React's Context API & useReducer</b> — 0/15 lectures · 1h 19min · <code>08-context-usereducer</code></summary>
+<summary><b>✅ Section 10 — React's Context API & useReducer</b> — 0/15 lectures · 1h 19min · <code>08-context-usereducer</code></summary>
 
-- [ ] Prop drilling problem
-- [ ] `createContext` / `useContext`
-- [ ] `useReducer` for complex state logic
-- [ ] Combining Context + Reducer
+- [x] Prop drilling problem
+- [x] `createContext` / `useContext`
+- [x] `useReducer` for complex state logic
+- [x] Combining Context + Reducer
 </details>
 
 <details>
-<summary><b>⬜ Section 11 — Handling Side Effects & useEffect()</b> — 0/16 lectures · 1h 21min · <code>09-side-effects-useeffect</code></summary>
+<summary><b>✅ Section 11 — Handling Side Effects & useEffect()</b> — 0/16 lectures · 1h 21min · <code>09-side-effects-useeffect</code></summary>
 
-- [ ] What are side effects
-- [ ] `useEffect` dependencies
-- [ ] Cleanup functions
-- [ ] Common pitfalls (infinite loops, race conditions)
+- [x] What are side effects
+- [x] `useEffect` dependencies
+- [x] Cleanup functions
+- [x] Common pitfalls (infinite loops, race conditions)
 </details>
 
 <details>
-<summary><b>⬜ Section 12 — Practice Project: Quiz App</b> — 0/12 lectures · 2h 1min · <code>10-quiz-app</code></summary>
+<summary><b>✅ Section 12 — Practice Project: Quiz App</b> — 0/12 lectures · 2h 1min · <code>10-quiz-app</code></summary>
 
 Full app built around effects, timers, and state.
 </details>
 
 <details>
-<summary><b>⬜ Section 13 — Behind the Scenes of React & Optimization</b> — 0/13 lectures · 1h 21min · <code>11-optimization</code></summary>
+<summary><b>✅ Section 13 — Behind the Scenes of React & Optimization</b> — 0/13 lectures · 1h 21min · <code>11-optimization</code></summary>
 
-- [ ] Virtual DOM & reconciliation
-- [ ] `memo`, `useMemo`, `useCallback`
-- [ ] When (not) to optimize
+- [x] Virtual DOM & reconciliation
+- [x] `memo`, `useMemo`, `useCallback`
+- [x] When (not) to optimize
 </details>
 
 <details>
-<summary><b>⬜ Section 14 — Class-based Components</b> — 0/10 lectures · 1h · <code>12-class-components</code></summary>
+<summary><b>✅ Section 14 — Class-based Components</b> — 0/10 lectures · 1h · <code>12-class-components</code></summary>
 
-- [ ] Class component syntax
-- [ ] Lifecycle methods
-- [ ] Error boundaries (class-only feature)
+- [x] Class component syntax
+- [x] Error boundaries (class-only feature)
+- [x] Lifecycle methods
 </details>
 
 <details>
-<summary><b>⬜ Section 15 — Sending HTTP Requests</b> — 0/16 lectures · 1h 25min · <code>13-http-requests</code></summary>
+<summary><b>✅ Section 15 — Sending HTTP Requests</b> — 0/16 lectures · 1h 25min · <code>13-http-requests</code></summary>
 
-- [ ] `fetch` in `useEffect`
-- [ ] Loading & error states
-- [ ] Sending data (POST/PUT/DELETE)
+- [x] `fetch` in `useEffect`
+- [x] Loading & error states
+- [x] Sending data (POST/PUT/DELETE)
 </details>
 
 <details>
-<summary><b>⬜ Section 16 — Building Custom React Hooks</b> — 0/7 lectures · 40min · <code>14-custom-hooks</code></summary>
+<summary><b>✅ Section 16 — Building Custom React Hooks</b> — 0/7 lectures · 40min · <code>14-custom-hooks</code></summary>
 
-- [ ] Rules of hooks
-- [ ] Extracting reusable logic
+- [x] Rules of hooks
+- [x] Extracting reusable logic
 </details>
 
 <details>
