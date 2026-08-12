@@ -35,8 +35,8 @@ This repo is updated gradually, section by section, as I progress through the co
 <!--PROGRESS_START-->
 ```
 Lectures completed:  402 / 772
-Progress:            [█████████████████████░░░░░░░░░] 60%
-Hours logged:        ~20h 43min / ~71h 30min
+Progress:            [██████████████████░░░░░░░░░] 60%
+Hours logged:        ~30h 43min / ~71h 30min
 Sections finished:    16 / 40
 ```
 <!--PROGRESS_END-->
