@@ -1,4 +1,4 @@
-# ⚛️ React Course — Maximilian Schwarzmüller (Udemy Courses)
+# ⚛️ React Course — Maximilian Schwarzmüller (Udemy Course)
 
 <div align="center">
 
@@ -61,7 +61,7 @@ Sections finished:    16 / 40
 
 ## 📖 About This Repo
 
-I'm an L1 Informatique student at USTHB working through this course to build a solid full-stack foundation, with the long-term goal of shipping real SaaS products. Each numbered folder in this repo corresponds to a section (or practice project) of the course, containing my own solutions, tweaks, and experiments — **not** a copy-paste of the instructor's code.
+I'm an first year computer science student at USTHB working through this course to build a solid full-stack foundation, with the long-term goal of shipping real SaaS products. Each numbered folder in this repo corresponds to a section (or practice project) of the course, containing my own solutions, tweaks, and experiments — **not** a copy-paste of the instructor's code.
 
 **Goals for this repo:**
 - Track progress through all 32 sections in public (well, private for now 👀)
