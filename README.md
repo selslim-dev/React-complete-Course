@@ -1,4 +1,4 @@
-# ⚛️ React Course — Maximilian Schwarzmüller (Udemy Course)
+# ⚛️ Complete React Course — Maximilian Schwarzmüller (Udemy Course)
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Sections finished:    16 / 40
 ```
 <!--PROGRESS_END-->
 
-> 💡 I update this block manually as I complete sections. Eventually this could be scripted (see [Ideas for automation](#-ideas-for-automation)).
+> 💡 I update this block manually as I complete sections. Eventually this could be scripted later on and handled by AI (see [Ideas for automation](#-ideas-for-automation)).
 
 ---
 
